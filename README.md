@@ -3,6 +3,7 @@
 ## Overview of Project
 
 Using the provided Kickstarter dataset, we evaluated how fundraising campaign outcomes (i.e. successful, failed, canceled) are related to campaign launch date and fundraising goal amounts.  The analysis was conducted in excel using a variety of techniques such as inserting new columns, leveraging excel equations, pivot tables and pivot charts.  Graphis were created to illustrate the relationships between fundraising campaign outcomes and fundraising campaign start date and fundraising campaign goal amounts.  
+
 The purpose of this project was to determine how various fundraising campaigns performed in relation to fundraising campaign launch date and fundraising goal amounts.  
 
 ## Analysis and Challenges
@@ -25,23 +26,24 @@ One of the challenges that I encountered was that my second graphic did not init
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+### What are two conclusions you can draw about the Outcomes based on Launch Date?
 
 Based on the analysis of this project, two conclusions can be drawn.
 1. The majority of fundraising campaigns are launched in May and continue through the summer months. 
 2. Fundraising campaigns launched in the summer months (especially May) are more likely to be successful than those launched outside of this window.  
 
-- What can you conclude about the Outcomes based on Goals?
+### What can you conclude about the Outcomes based on Goals?
 
 Fundraising campaigns with goal ranges less than $1,500 are the most likely to be successful.  
 
-- What are some limitations of this dataset?
+### What are some limitations of this dataset?
 
 This dataset is limited by the following : 
 - We only have 8 years of data.
 - The most recent data are from 2017. 
 
-- What are some other possible tables and/or graphs that we could create?
+### What are some other possible tables and/or graphs that we could create?
 
 For the analysis of outcomes based on launch date, we could create a table / graph showing percentage of fundraising campaign outcomes based launch date (instead of count).  
+
 For the analysis of outcomes based on fundraising goals, we could create a graph showing count of fundraising campaign outcomes based on fundraising goal (instead of %).
