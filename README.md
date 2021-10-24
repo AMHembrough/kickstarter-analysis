@@ -2,7 +2,11 @@
 
 ## Overview of Project
 
+### Overview
+
 Using the provided Kickstarter dataset, we evaluated how fundraising campaign outcomes (i.e. successful, failed, canceled) are related to campaign launch date and fundraising goal amounts.  The analysis was conducted in excel using a variety of techniques such as inserting new columns, leveraging excel equations, pivot tables and pivot charts.  Graphis were created to illustrate the relationships between fundraising campaign outcomes and fundraising campaign start date and fundraising campaign goal amounts.  
+
+### Purpose 
 
 The purpose of this project was to determine how various fundraising campaigns performed in relation to fundraising campaign launch date and fundraising goal amounts.  
 
